@@ -102,6 +102,9 @@
 - [古诗词网](https://www.gushici.net)
 - [千篇国学](https://www.qianp.com)
 - [国学百科](https://www.guoxuebaike.cn)
+- [微信读书](https://weread.qq.com)
+- [QQ阅读](https://m.yunqi.qq.com)
+- [中国文化一千问](https://m.yunqi.qq.com/chapter/818018)
 
 ## 学说
 
