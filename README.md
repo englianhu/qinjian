@@ -395,6 +395,7 @@ https://gitee.com/eglianhu
 - [国防工业出版社](http://www.ndip.cn/download/index/type/1.html)
 - [淘链客](https://toplinks.cc/s)
 - [RUNOOB.com](https://www.runoob.com)各类编程教程网
+- [電子圖書學校專集壹萬冊（PDF）](https://ivantsoi.myds.me/web/schoolebook)
 - [中文马克思主义文库](https://www.marxists.org/chinese/index.html)
 - [中文马克思主义文·库参考图书·左翼文化](https://www.marxists.org/chinese/reference-books/index-leftwingculture.htm)
 
