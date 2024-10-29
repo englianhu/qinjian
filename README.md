@@ -368,6 +368,7 @@ https://gitee.com/eglianhu
 - [CORE](https://core.ac.uk)
 - [GitHub Community 猫舍交流社区](https://github.com/orgs/community)
 - [十大论文网站排名 大雅上榜 知网中国知名的论文网站之一](https://www.yezicc.com/keji/2021051824925.html) ❤️‍🔥
+- [「陕西省官网」陕西省地方志办公室>>民俗志](http://dfz.shaanxi.gov.cn/sqzlk/xbsxsz/szdyl/msz/)
 - [「馆」个人图书馆](http://www.360doc.com)
 - [🎓研究生2.0](https://researcher20.com)
 - [ZOL中关村在线 - 引领科技，指导消费](https://www.zol.com.cn)
