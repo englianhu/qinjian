@@ -105,6 +105,7 @@
 - [微信读书](https://weread.qq.com)
 - [QQ阅读](https://m.yunqi.qq.com)
 - [中国文化一千问](https://m.yunqi.qq.com/chapter/818018)
+- [中國經濟史論罎 ](http://economy.guoxue.com/)
 
 ## 学说
 
@@ -161,6 +162,7 @@
 - [「一带一路」在沙地阿拉伯建高铁](https://open-hl.toutiao.com/a7032503569299440136/?utm_campaign=open&utm_medium=webview&utm_source=mi_mcc_api_2019&req_id=202211221157210102080370880AFC1B82&device_brand=&dt=Redmi+7A&a_t=A8hQBsR7xRmBEteJWoRLsYDWT1u2FgVyKJLWmKmupjikYNVHHP7EKXziYTiZk878aZENV7cfV&gy=dc511c6dd241f199c2b11326a97a50a9fbd32fa95b2841cd2f77fbbfb0469a73aae2efdcc8f7231b107a04b231810cb75e08aebc0b16a5fdc4ca57a6d7f18abbdd25f0e983bdb905b8eccd66ef100e465697af74f15451c65d5d695bc5cec4594778a68d25156bedf6f26d073c6aca493c85ae3d9adcb24742ebaa764587f68f&crypt=9535&label=news_xiaomi_extra_video_feed&item_id=7032503569299440136&bizDocId=toutiao_newhome_7032503569299440136)
 - [构建面向新时代的中阿命运共同体 习近平提出中国倡议](http://cpc.people.com.cn/n1/2022/1210/c164113-32584714.html)
 - [德媒：中国正打造自己的机器人帝国，将许多西方大国甩在身后](http://v1-mllqv.onewsvod.com/6e75ae1e75368c03cf0b3e64f2d1b516/6398614a/video/tos/cn/tos-cn-ve-4/321c3ce511b140c3a429898e6147310a/?a=34&ch=0&cr=0&dr=1&lr=xigua&cd=0%7C0%7C0%7C0&cv=1&br=536&bt=536&cs=0&ds=1&ft=k7FqQVVywIiRZm8Zmo~hFJ4YA0piIITw~jKJHaN1dG0P3-A&mime_type=video_mp4&qs=0&rc=aWhnNGdkaGg3ZzZkZmY4Z0BpanByZGY6Zm41aDMzNDczM0A1MzUxYzQuNS0xNGMzLy02YSNyamkvcjQwcWBgLS1kLWFzcw%3D%3D&l=2022121318215501015010107824C4BE3C&btag=30000&docid=7176556975227044408&cp=cn-toutiao&itemtype=inline_video&version=2&mibusinessId=miuibrowser&env=production)
+- [中國經濟史論罎 ](http://economy.guoxue.com/)
 - [中国军网](https://www.81.cn)
 - [央视网 - 军事](https://military.cctv.com)
 
