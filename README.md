@@ -107,6 +107,7 @@
 - [QQ阅读](https://m.yunqi.qq.com)
 - [中国文化一千问](https://m.yunqi.qq.com/chapter/818018)
 - [中國經濟史論罎 ](http://economy.guoxue.com/)
+- [中国历史研究网](http://hrczh.cass.cn/)
 
 ## 学说
 
