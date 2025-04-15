@@ -253,7 +253,7 @@ https://gitee.com/eglianhu
     - [亡国了！乌西发起“公投”！25万大军兵不血刃拿下利沃夫！泽连斯基做梦都没想到！动手的竟不是俄罗斯](https://www.facebook.com/watch/?v=3415991455328272)
     - [灭国了！俄军40万吨航空导弹，20分钟摧毁60个战略目标！波兰一夜被炸回石器时代！](https://www.facebook.com/watch/?v=772726037540672)
     - [俄军死亡冲锋，要全歼乌军7旅，美司令警告，20000俄军冲进城西](https://www.facebook.com/watch/?v=611485620698904)
-    - [美国怎么也没想到！130万发弹药抵达俄! 普京终于可以放心了](https://www.facebook.com/watch?v=1397596064411961)
+    - [美国怎么也没想到！百卅万发弹药抵达俄! 普京终于可以放心了](https://www.facebook.com/watch?v=1397596064411961)
     - [諸葛亮戰鬥力有多強？劉備腹背受敵，臥龍神兵天降，助皇叔絕處逢生，打出人生高光時刻 - 劉備入蜀終篇！](https://www.facebook.com/watch?v=545803214292376)
 
 > 《黄埔军校》<br>
@@ -361,6 +361,7 @@ https://gitee.com/eglianhu
 - [猫城：收藏的一些经典的电子书(ebook) （约10万本）](https://github.com/englianhu/ebooks) ❤️‍🔥
 - [Big Book of R](https://www.bigbookofr.com) ❤️‍🔥
 - [简书：高级R与Shiny应用](https://www.jianshu.com/p/e9250c06502a)
+- [九个学习R语言的网站和教程，搞定R语言自学（国内外知名大学课程）](https://www.xue8nav.com/2063.html)
 - [知乎：量化投资学习推荐的书籍都有哪些？](https://www.zhihu.com/question/54727745)
 - [猫城：Repository for distributing (some) stan-dev R packages](https://github.com/englianhu/r-packages)
 - [汉斯 - 中文开源期刊（安全网）](https://www.hanspub.org) （[汉斯 - 中文开源期刊](http://www.hanspub.org)）
